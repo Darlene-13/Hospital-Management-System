@@ -5,7 +5,6 @@
 # Import a class for regex operations ie email format validations
 import re
 
-from django.utils.datetime_safe import new_date
 
 
 class Patient:
